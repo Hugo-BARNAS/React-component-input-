@@ -11,7 +11,6 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Contact](#contact)
-* [Website](#website)
 
 ## General info
 Learning basic funtions of React
