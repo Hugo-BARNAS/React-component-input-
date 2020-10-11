@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/React-lightgrey?logo=React&color=blue)
+![](https://img.shields.io/badge/JavaScript-inactive?logo=JavaScript)
+![](https://img.shields.io/badge/Node.js-inactive?logo=Node.js&color=brightgreen)
 
 # React-component-input
 
